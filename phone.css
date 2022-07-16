@@ -1,0 +1,25 @@
+/* Home */
+#home{
+    height: 800px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+
+/* about */
+#pic img{
+    width: 250px;
+    height: 175px;
+    grid-template-columns: auto;
+    margin-top: 70%;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/* portfolio  */
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
